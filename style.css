@@ -1,0 +1,55 @@
+
+/* CSS */
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    line-height: 1.5em;
+    background-color: #f0f0f0;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+.topnav a {
+    display: inline;
+    color: #ffffff;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.topnav a:hover {
+    background-color: #111;
+}
+
+.background-color: yellow;
+color:white;
+
+/* Images and Sections */
+.pimg1,
+.pimg2,
+.pimg3 {
+    position: relative;
+    opacity: 0.5;
+    background-repeat: no-repeat;
+}
+
+section {
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.section-light {
+    background-color: #f4f4f4;
+    color: #666;
+}
+
+.section-dark {
+    background-color: #323e4e;
+    color: #ddd;
+}
